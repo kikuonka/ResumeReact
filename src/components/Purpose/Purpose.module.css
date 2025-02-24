@@ -1,0 +1,12 @@
+.purpose {
+    padding: 30px 15%;
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 20px;
+}
+
+.purposeText {
+    padding: 0 0 20px;
+    font-size: 18px;
+    text-align: center;
+}

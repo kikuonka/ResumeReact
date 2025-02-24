@@ -1,0 +1,27 @@
+.header {
+    padding: 10px;
+    display: grid;
+    grid-template-rows: auto auto auto;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    width: 30vw;
+    border-radius: 20px;
+}
+
+.dreamJob {
+    font-size: 24px;
+    font-weight: bold;
+    font-variant-caps: all-petite-caps;
+}
+
+.nameRu {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nameEn {
+    font-size: 16px;
+    font-style: italic;
+}

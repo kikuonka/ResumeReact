@@ -1,0 +1,36 @@
+.education {
+    padding: 10px 10%;
+    display: grid;
+    grid-template-columns: auto;
+    gap: 20px;
+    color: #ffffff;
+}
+
+.h2 {
+    font-variant-caps: all-petite-caps;
+    font-size: 32px;
+}
+
+.educationUniversity {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    border-bottom: 1px solid #ffffff;
+    padding-bottom: 10px;
+}
+
+.h3 {
+    font-variant-caps: all-petite-caps;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.educationCourse {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    border-bottom: 1px solid #ffffff;
+    padding-bottom: 10px;
+}
+
+.infoBlock {
+    margin-left: auto;
+}
