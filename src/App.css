@@ -38,8 +38,3 @@ body {
   grid-template-columns: 1fr auto;
   align-items: center;
 }
-
-.left-container {
-  height: 100vh;
-  background-image: url("./assets/back.gif");
-}

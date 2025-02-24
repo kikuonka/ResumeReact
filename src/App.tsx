@@ -9,7 +9,6 @@ import Profile from "./components/Profile";
 function App() {
     return (
         <>
-            <div className="left-container"></div>
             <div className="main-container">
                 <div className="header-container">
                     <HeaderResume />
@@ -28,7 +27,6 @@ function App() {
                     <SkillsResume />
                 </div>
             </div>
-            <div className="right-container"></div>
         </>
     );
 };
